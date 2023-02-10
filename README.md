@@ -11,7 +11,7 @@ To build the app make sure rsa and argparse are installed. These can be easily i
 
 I chose to work with the rsa package because it is lightweight and easy to use/understand while providing all the desired functionality.
 
-##Usage
+## Usage
 The program can perfom five tasks. To run call one of the following:
 
 **Key Generation**
